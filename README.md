@@ -58,7 +58,7 @@ System Architecture:
 ---
 
 ### 2. Intelligent Object Sorting System 🦾
-[View Repository](your-repo-link-here)
+[View Repository](https://github.com/Shivangi-Sirsiwal/object_sorting_arm_system)
 
 #### Overview
 A robotic sorting system that combines computer vision and precise manipulation to categorize objects by color, demonstrating advanced perception and control capabilities.
@@ -69,9 +69,9 @@ A robotic sorting system that combines computer vision and precise manipulation 
 * Integration of vision processing with mechanical control
 
 #### Project Documentation
-[Read Full Technical Report](link-to-report)
+[Read Full Technical Report](https://github.com/Shivangi-Sirsiwal/object_sorting_arm_system/blob/main/RBE3001_A23_Team22_FinalProject_Report.pdf)
 
-<img src="path/to/sorting-system.jpg" width="600" alt="Sorting System">
+https://github.com/Shivangi-Sirsiwal/ball_sorting_arm_system/assets/152037538/c7c0a0ed-64dc-457d-9f98-ffa4080a62b7
 
 ---
 
@@ -162,15 +162,4 @@ Master of Science in Robotics Engineering<br>
 📧 [Email](mailto:your.email@example.com)<br>
 💼 [LinkedIn](your-linkedin-url)<br>
 🌐 [GitHub](your-github-url)<br>
-```
 
-To use this template:
-
-1. Save it as `README.md` in your portfolio repository
-2. Replace all placeholder text (enclosed in brackets) with your information
-3. Update the image paths to point to your actual images
-4. Add your own repository links
-5. Update the badges to match your skills
-6. Customize the sections based on your specific projects and needs
-
-Would you like me to explain any particular section or help you customize specific parts of the template?
