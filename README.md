@@ -1,5 +1,5 @@
 # Shivangi Sirsiwal
-Robotics Engineer yo
+Robotics Engineer
 
 ## About Me
 I am a robotics engineer specializing in autonomous systems, manipulation, and multi-robot systems. My work focuses on creating innovative solutions that combine hardware and software to solve complex engineering challenges. With expertise in ROS, computer vision, and full-stack development, I develop systems that bridge the gap between theoretical robotics and practical applications.
@@ -161,15 +161,17 @@ Landing Page:
 Consumer Page:<br>
 
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c5457d2e-792b-4b6b-9fe6-94fe7683a9d7" width="650">
+<br>
 
-Admin Page:
+Admin Page:<br>
 
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/e5a15e45-0220-43ad-9bda-470f43cd09bd" width="400">
+<br>
 
-VM Page:
+VM Page:<br>
     
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c9f0e232-1e7a-4f6b-bea5-dd58096a07b3" width="400">
----
+<br>
 
 ### 5. Autonomous Robot Navigation System 🗺️
 [View Repository](https://github.com/Shivangi-Sirsiwal/nav_and_localize)
