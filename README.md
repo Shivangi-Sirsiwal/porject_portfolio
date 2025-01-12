@@ -103,14 +103,12 @@ An interactive puzzle game featuring innovative mechanics for color-based patter
 #### Gameplay
 Below is what the app looks like upon launch; the 5x5 is the default configuration.
 
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "400">
-<br>     
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "400">   
 <br>
 
 Below is what the app looks like after moving left.
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/36070478-7ab5-4231-9b13-4773c134c6a6" width = "400">
-<br>
 <br>
 
 Below is what the app looks like after pressing the remove button.
