@@ -187,17 +187,20 @@ A comprehensive implementation of autonomous navigation capabilities including m
 * Frontier-based exploration
 
 #### Results and Visualizations
-The completed G-Mapping map of the maz
+The completed G-Mapping map of the maze:<br>
 
 <img src="https://github.com/user-attachments/assets/5b381e42-cf42-40be-98c3-b0a6a5a4f25f" width = 400>
+<br>
 
-The A-Star path, C-Space, and C-Space gradient with the robot path following
+The A-Star path, C-Space, and C-Space gradient with the robot path following<br>
 
 <img src="https://github.com/user-attachments/assets/4b3162b5-4cc0-442b-b943-a15b41209d5d" width = 800>
+<br>
 
-The robot localization using AMCL
+The robot localization using AMCL<br>
 
 <img src ="https://github.com/user-attachments/assets/5de41d64-344a-4df1-8f13-ca6803f40911" width = 600>
+<br>
 
 ## Education
 **Worcester Polytechnic Institute**<br>
