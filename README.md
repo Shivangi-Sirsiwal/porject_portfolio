@@ -53,7 +53,7 @@ System Architecture:
 ```
 
 #### Demonstration
-[<img src="path/to/maze-solver-demo.gif" width="600" alt="Maze Solver Demo">](https://github.com/Shivangi-Sirsiwal/tri-robot_maze-solving_system/assets/152037538/4449ab9a-d629-4a69-9218-d85e56ac5b8f)
+https://github.com/Shivangi-Sirsiwal/tri-robot_maze-solving_system/assets/152037538/4449ab9a-d629-4a69-9218-d85e56ac5b8f
 
 ---
 
