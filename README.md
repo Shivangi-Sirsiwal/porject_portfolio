@@ -89,49 +89,52 @@ An interactive puzzle game featuring innovative mechanics for color-based patter
 
 #### Configuration Screenshots
 5x5 Configuration
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "600">
+
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "400">
 
 4x4 Configuration
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/40c9053a-f5ee-4cf6-8fc3-e0ee5c82c224" width = "600">
+
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/40c9053a-f5ee-4cf6-8fc3-e0ee5c82c224" width = "400">
 
 6x6 Configuration
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/b12a31fb-faf3-4a18-8a90-7196bd755295" width = "600">
+
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/b12a31fb-faf3-4a18-8a90-7196bd755295" width = "400">
 
 #### Gameplay
 Below is what the app looks like upon launch; the 5x5 is the default configuration, so <br>
 that is the one that is automatically displayed. The ninja can not leave the board, so <br>
 only the up and left buttons are active.    
 
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "600">
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "400">
 <br>     
 <br>
 
 Below is what the app looks like after moving left.
 
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/36070478-7ab5-4231-9b13-4773c134c6a6" width = "600">
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/36070478-7ab5-4231-9b13-4773c134c6a6" width = "400">
 <br>
 <br>
 
 Below is what the app looks like after pressing the remove button. The four blue squares <br>
 have been removed, the move count is incremented by one and the score count by four.
 
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/08ebd921-ebb7-4436-99d8-b785838fd38a" width = "600">
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/08ebd921-ebb7-4436-99d8-b785838fd38a" width = "400">
 <br>
 <br>
 
 The ninja is also able to push colors off the screen, for example if the game is as shown <br>
 below, the ninja is still able to move up.
 
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/1f244e81-a7e0-4319-a001-d9b5ee186045" width = "600">
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/1f244e81-a7e0-4319-a001-d9b5ee186045" width = "400">
 <br>
 <br>
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/131b0ce7-b214-4d2c-8672-d8578a7d86a0" width = "600">
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/131b0ce7-b214-4d2c-8672-d8578a7d86a0" width = "400">
 <br>
 <br>
 
 Upon completing the game, the app displays the congratulatory message shown below!
 
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/c8938738-46b1-4e9c-ad5d-7e42ea7b2cb1" width = "600">
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/c8938738-46b1-4e9c-ad5d-7e42ea7b2cb1" width = "400">
 
 ---
 
