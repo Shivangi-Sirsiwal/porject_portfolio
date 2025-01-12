@@ -139,10 +139,7 @@ Upon completing the game, the app displays the congratulatory message shown belo
 ---
 
 ### 4. Seats4u Ticketing Platform 🎫
-[View Repository](your-repo-link-here)
-
-**Duration**: June 2023 - August 2023<br>
-**Technologies**: [List Technologies]
+[View Repository](https://github.com/Shivangi-Sirsiwal/seats4u)
 
 #### Overview
 A comprehensive ticketing system supporting multiple user roles with different privileges and functionalities.
@@ -164,12 +161,21 @@ A comprehensive ticketing system supporting multiple user roles with different p
 ```
 
 #### Interface Examples
-<div align="center">
-  <img src="path/to/consumer-portal.jpg" width="300" alt="Consumer Portal">
-  <img src="path/to/admin-dashboard.jpg" width="300" alt="Admin Dashboard">
-  <img src="path/to/manager-interface.jpg" width="300" alt="Manager Interface">
-</div>
+Landing Page:
 
+<image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/ce2cb354-6742-4e2f-9d79-40668a1d4b6d" width="400">
+
+Consumer Page:
+
+<image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c5457d2e-792b-4b6b-9fe6-94fe7683a9d7" width="650">
+
+Admin Page:
+
+<image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/e5a15e45-0220-43ad-9bda-470f43cd09bd" width="400">
+
+VM Page:
+    
+<image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c9f0e232-1e7a-4f6b-bea5-dd58096a07b3" width="400">
 ---
 
 ### 5. Autonomous Robot Navigation System 🗺️
