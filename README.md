@@ -101,9 +101,7 @@ An interactive puzzle game featuring innovative mechanics for color-based patter
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/b12a31fb-faf3-4a18-8a90-7196bd755295" width = "400">
 
 #### Gameplay
-Below is what the app looks like upon launch; the 5x5 is the default configuration, so <br>
-that is the one that is automatically displayed. The ninja can not leave the board, so <br>
-only the up and left buttons are active.    
+Below is what the app looks like upon launch; the 5x5 is the default configuration.
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "400">
 <br>     
@@ -115,8 +113,7 @@ Below is what the app looks like after moving left.
 <br>
 <br>
 
-Below is what the app looks like after pressing the remove button. The four blue squares <br>
-have been removed, the move count is incremented by one and the score count by four.
+Below is what the app looks like after pressing the remove button.
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/08ebd921-ebb7-4436-99d8-b785838fd38a" width = "400">
 <br>
@@ -179,10 +176,7 @@ VM Page:
 ---
 
 ### 5. Autonomous Robot Navigation System 🗺️
-[View Repository](your-repo-link-here)
-
-**Duration**: March 2023 - May 2023<br>
-**Technologies**: ROS, TurtleBot3, SLAM, AMCL
+[View Repository](https://github.com/Shivangi-Sirsiwal/nav_and_localize)
 
 #### Overview
 A comprehensive implementation of autonomous navigation capabilities including mapping, localization, and path planning.
@@ -190,22 +184,23 @@ A comprehensive implementation of autonomous navigation capabilities including m
 #### Technical Features
 * SLAM-based mapping system
 * A* path planning with dynamic obstacle avoidance
-* Monte Carlo localization implementation
+* AMCL localization implementation
 * Frontier-based exploration
 
 #### Results and Visualizations
-<div align="center">
-  <img src="path/to/mapping-result.jpg" width="400" alt="Mapping Result">
-  <img src="path/to/navigation-demo.jpg" width="400" alt="Navigation Demo">
-</div>
+The completed G-Mapping map of the maz
+
+<img src="https://github.com/user-attachments/assets/5b381e42-cf42-40be-98c3-b0a6a5a4f25f" width = 400>
+
+The A-Star path, C-Space, and C-Space gradient with the robot path following
+
+<img src="https://github.com/user-attachments/assets/4b3162b5-4cc0-442b-b943-a15b41209d5d" width = 800>
+
+The robot localization using AMCL
+
+<img src ="https://github.com/user-attachments/assets/5de41d64-344a-4df1-8f13-ca6803f40911" width = 600>
 
 ## Education
 **Worcester Polytechnic Institute**<br>
 Master of Science in Robotics Engineering<br>
-*Expected Graduation: May 2024*
-
-## Contact Information
-📧 [Email](mailto:your.email@example.com)<br>
-💼 [LinkedIn](your-linkedin-url)<br>
-🌐 [GitHub](your-github-url)<br>
-
+*Expected Graduation: May 2025*
