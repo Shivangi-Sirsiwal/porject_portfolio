@@ -115,16 +115,13 @@ Below is what the app looks like after pressing the remove button.
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/08ebd921-ebb7-4436-99d8-b785838fd38a" width = "400">
 <br>
-<br>
 
 The ninja is also able to push colors off the screen, for example if the game is as shown <br>
 below, the ninja is still able to move up.
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/1f244e81-a7e0-4319-a001-d9b5ee186045" width = "400">
 <br>
-<br>
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/131b0ce7-b214-4d2c-8672-d8578a7d86a0" width = "400">
-<br>
 <br>
 
 Upon completing the game, the app displays the congratulatory message shown below!
@@ -161,7 +158,7 @@ Landing Page:
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/ce2cb354-6742-4e2f-9d79-40668a1d4b6d" width="400">
 <br>
 
-Consumer Page:
+Consumer Page:<br>
 
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c5457d2e-792b-4b6b-9fe6-94fe7683a9d7" width="650">
 
