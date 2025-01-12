@@ -161,6 +161,7 @@ A comprehensive ticketing system supporting multiple user roles with different p
 Landing Page:
 
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/ce2cb354-6742-4e2f-9d79-40668a1d4b6d" width="400">
+<br>
 
 Consumer Page:
 
