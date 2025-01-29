@@ -173,7 +173,7 @@ VM Page:<br>
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c9f0e232-1e7a-4f6b-bea5-dd58096a07b3" width="400">
 <br>
 <br>
-hello
+
 
 ### 5. Autonomous Robot Navigation System 🗺️
 [View Repository](https://github.com/Shivangi-Sirsiwal/nav_and_localize)
@@ -205,5 +205,5 @@ The robot localization using AMCL<br>
 
 ## Education
 **Worcester Polytechnic Institute**<br>
-Master of Science in Robotics Engineering<br>
+Bachelors of Science in Robotics Engineering<br>
 *Expected Graduation: May 2025*
